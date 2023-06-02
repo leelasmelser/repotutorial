@@ -17,7 +17,7 @@
 : On your computer.
 
 **Remote** (adj.)
-: On someone else's computer (aka 'the cloud').
+: On someone else's computer / 'the cloud'.
 
 **Branch** (n.)
 : A version of a repository with its own history. Branches can be created for a unique set of changes and later *merged* with the main branch to avoid file conflicts.
